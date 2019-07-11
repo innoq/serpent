@@ -1,7 +1,7 @@
-package = "serpent"
+package = "serpent-fixed"
 version = "scm-1"
 source = {
-  url = "git://github.com/pkulchenko/serpent.git",
+  url = "https://github.com/innoq/serpent.git",
 }
 
 description = {
